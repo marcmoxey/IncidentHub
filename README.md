@@ -1,6 +1,6 @@
 # TaskTrackerCLIApp
 
-#🧩 Features:
+# 🧩 Features:
 ✅ Add a new task
 📋 View all tasks
 ❌ Mark a task as completed

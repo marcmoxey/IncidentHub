@@ -1,6 +1,6 @@
 # 🚨 IncidentHub
 
-A full-stack application to report and manage incidents within an organization. Built with ASP.NET Core Web API, React, Dapper, and SQL Server — following clean architecture and modern dev practices.
+A full-stack application to report and manage incidents within an organization. Built with ASP.NET Core Web API, React, Dapper, and SQL Server
 
 ---
 

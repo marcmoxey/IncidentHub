@@ -1,4 +1,4 @@
-# TaskTrackerCLIApp
+# TaskTrackerApp
 
 # 🧩 Features:
 ✅ Add a new task

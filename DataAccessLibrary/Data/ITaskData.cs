@@ -9,5 +9,6 @@ namespace DataAccessLibrary.Data
         Task<IEnumerable<TaskModel>> GetTasks();
         Task InsertTask(TaskModel task);
         Task UpdateTask(TaskModel task);
+        Task MarkComplete(int id);  
     }
 }

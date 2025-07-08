@@ -17,7 +17,7 @@ builder.Services.AddSingleton<ITaskData, TaskData>();
 
 var app = builder.Build();
 
-// 3.Resolve  service
+// Resolve  service
 var taskService = app.Services.GetRequiredService<ITaskData>();
 
 Console.WriteLine("=== Task Tracker Test Console ===");

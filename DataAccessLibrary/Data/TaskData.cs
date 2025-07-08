@@ -35,4 +35,6 @@ public class TaskData : ITaskData
     });
 
     public Task DeleteTask(int id) => _db.SaveData("dbo.spTask_Delete", new { Id = id });
+
+    public Task MarkComplete(int id) => _db.SaveData("dbo.spTask_MarkComplete", new { Id = id });
 }
